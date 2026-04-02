@@ -49,9 +49,10 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## Sample Output
-
+### Mask Output
 ![Color Detection Mask](assets/mask_output.png)
+
+### Final Detection
 ![Color Detection Result](assets/output.png)
 
 ## Future Improvements
