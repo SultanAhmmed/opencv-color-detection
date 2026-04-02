@@ -26,8 +26,3 @@ build/
 dist/
 *.egg-info/
 
-# OpenCV / media outputs (optional)
-*.png
-*.jpg
-*.mp4
-*.avi
